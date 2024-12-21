@@ -38,6 +38,8 @@ For different input combinations generate the timing diagram
 **PROGRAM**
 
 /* Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
+
+`````
 module de12(
 input wire clk, // Clk input
 output reg [3:0] count //4-bit counter output
@@ -55,6 +57,7 @@ endmodule
  Developed by: S.NITHYASREE
  RegisterNumber:24900149
 */
+``````
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
